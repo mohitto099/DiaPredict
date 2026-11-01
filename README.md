@@ -28,7 +28,7 @@ The project was built for a Machine Learning course, and it covers data preparat
 
 ## Dataset
 
-[Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database): 768 records, 8 features, binary target (`Outcome`).
+[Pima Indians Diabetes Database](https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv): 768 records, 8 features, binary target (`Outcome`).
 
 | Feature | Description |
 |---|---|
